@@ -3,7 +3,7 @@
 You are my ![Visitor Count](https://profile-counter.glitch.me/fuendi/count.svg) visitor
 
 - 🔭 As a front-end engineer, I‘m transitioning to becoming a full-stack developer.
-- 5 years of front-end development experience，good at web development
+- 6 years of front-end development experience，good at web development
 - ⚡ React / Vue / TS / Next.js / Nest.js / Trao / Uniapp
 - ✍️ more about me ? [Blog](https://fuendi.cn)
 
